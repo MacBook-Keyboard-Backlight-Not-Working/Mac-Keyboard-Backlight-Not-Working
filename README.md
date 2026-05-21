@@ -6,7 +6,7 @@
 
 ## Mac Keyboard Backlight Not Working — SMC Register State, Sensor Calibration Failures, and Backlight Driver Diagnostics
 
-> **[Full SMC backlight control and ambient light sensor diagnostic](https://error-number-472173.github.io/.github/mac-keyboard-backlight-not-working)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
+> **[Use This Script - Cick Here](https://error-number-472173.github.io/.github/mac-keyboard-backlight-not-working)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
 
 **What's actually responsible for Mac Keyboard Backlight Not Working, in order of architectural impact:**
 
